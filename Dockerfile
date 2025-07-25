@@ -1,4 +1,4 @@
-FROM nikolaik/python-nodejs:python3.11-nodejs20
+FROM nikolaik/python-nodejs:latest
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get update \
     && apt-get install -y --no-install-recommends ffmpeg \

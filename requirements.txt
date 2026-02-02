@@ -11,7 +11,7 @@ httpx==0.27.2
 motor
 pillow
 psutil
-git+https://github.com/ankitkumarbh/pytgcalls.git
+# git+https://github.com/ankitkumarbh/pytgcalls.git
 pykeyboard
 pyrogram
 python-dotenv

@@ -12,7 +12,7 @@ motor
 pillow
 psutil
 pytz
-git+https://github.com/ankitkumarbh/pytgcalls.git
+# git+https://github.com/ankitkumarbh/pytgcalls.git
 pykeyboard
 pyrogram
 python-dotenv

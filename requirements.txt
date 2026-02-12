@@ -1,5 +1,6 @@
 aiofiles
 aiohttp
+gTTS
 asyncio
 beautifulsoup4
 dnspython
@@ -12,7 +13,7 @@ motor
 pillow
 psutil
 pytz
-git+https://github.com/ankitkumarbh/pytgcalls.git
+# git+https://github.com/ankitkumarbh/pytgcalls.git
 pykeyboard
 pyrogram
 python-dotenv
@@ -42,3 +43,4 @@ uvloop
 redis
 aria2
 cryptography
+telegraph

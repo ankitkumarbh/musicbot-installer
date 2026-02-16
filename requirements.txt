@@ -8,21 +8,24 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
-httpx==0.27.2
+httpx
 motor
 pillow
 psutil
 pytz
 # git+https://github.com/ankitkumarbh/pytgcalls.git
-pykeyboard
-pyrogram
+# pykeyboard
+# pyrogram
+kurigram
+pykeyboard-kurigram
 python-dotenv
 pyyaml
 gpytranslate
 requests
 speedtest-cli
 spotipy
-tgcrypto
+# tgcrypto
+pytgcrypto
 unidecode
 yt-dlp
 youtube-search

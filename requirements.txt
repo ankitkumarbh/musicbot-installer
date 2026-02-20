@@ -9,6 +9,7 @@ gitpython
 hachoir
 heroku3
 httpx
+httpx[http2]
 motor
 pillow
 psutil
